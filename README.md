@@ -2,9 +2,9 @@
 Gesture controlled keyboard mouse
 
 Used libraries-
-OpenCV
-mouse
-wx
-keyboard
-mediapipe
-time
+<br />OpenCV
+<br />mouse
+<br />wx
+<br />keyboard
+<br />mediapipe
+<br />time
