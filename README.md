@@ -9,4 +9,4 @@ Used libraries-
 <br />mediapipe
 <br />time
 <br/>
-#To know more read documentation [here]  (https://docs.google.com/document/d/1aSa_Mv0raawaPSm4AwRGtHYQ7T6YZIL5VXjRaFWbxGI/edit?usp=sharing)
+# To know more read documentation [here](https://docs.google.com/document/d/1aSa_Mv0raawaPSm4AwRGtHYQ7T6YZIL5VXjRaFWbxGI/edit?usp=sharing)
