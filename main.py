@@ -56,7 +56,7 @@ while True:
                 print("Backspace")
 
         except:
-            print("NO HAND VISIBLE")
+            print("Hand not detected.")
         finally:
             i = 0
 
